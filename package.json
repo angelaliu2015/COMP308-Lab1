@@ -1,0 +1,17 @@
+{
+  "name": "comp308-lab1",
+  "version": "1.0.0",
+  "description": "first express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Angela",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
